@@ -1,3 +1,41 @@
-# Starry03
+<h1>
+    Starry03
+</h1>
 
-### Technologies I use
+<h3 >Computer engineering student at "La Sapienza"</h3>
+
+<div >
+ 
+ <h3>42 school student</h3>
+
+ <img src="https://badge.mediaplus.ma/binary/astarran" alt="42 score">
+</div>
+
+<div>
+
+<h2>Technologies I use</h2>
+
+<img src="https://skillicons.dev/icons?i=c,java,python,fastapi,firebase,nodejs">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,nextjs" />
+
+<img style="margin-top:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry03&theme=dark">
+
+</div>
+
+<div >
+  <h2>My Contributions</h2>
+
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starry03&theme=radical&hide_border=true)
+
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Starry03&theme=dark)
+
+</div>
+
+<h2>Contact me</h2>
+
+<div > 
+  <a href="mailto:andrea.starrantino@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
