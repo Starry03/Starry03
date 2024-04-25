@@ -19,7 +19,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,nextjs" />
 
-<img style="margin-top:2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry03&theme=dark">
+<img style="margin-top:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry03&theme=dark">
 
 </div>
 
