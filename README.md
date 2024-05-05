@@ -15,9 +15,9 @@
 
 <h2>Technologies I use</h2>
 
-<img src="https://skillicons.dev/icons?i=c,java,python,fastapi,firebase,nodejs">
+<img src="https://skillicons.dev/icons?i=c,java,python,fastapi,firebase">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs" />
 
 <img style="margin-top:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry03&theme=dark">
 
