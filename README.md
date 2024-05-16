@@ -17,9 +17,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,java,python,fastapi,firebase">
 
-<img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs" />
-
-<img style="margin-top:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry03&theme=dark">
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
 </div>
 
