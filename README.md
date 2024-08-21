@@ -13,7 +13,7 @@
 
 <div>
 
-<h2>Technologies I use</h2>
+<h2>Technologies</h2>
 
 <img src="https://skillicons.dev/icons?i=c,java,python,fastapi,firebase">
 
@@ -25,8 +25,6 @@
   <h2>My Contributions</h2>
 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starry03&theme=radical&hide_border=true)
-
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Starry03&theme=dark)
 
 </div>
 
