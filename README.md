@@ -15,7 +15,7 @@
 
 <h2>Technologies</h2>
 
-<img src="https://skillicons.dev/icons?i=c,java,python,fastapi,firebase">
+<img src="https://skillicons.dev/icons?i=c,go,java,python,fastapi,postgresql">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 
