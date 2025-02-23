@@ -1,37 +1,77 @@
-<h1>
-    Starry03
-</h1>
+<h2 align="left">About</h2>
 
-<h3 >Computer engineering student at "La Sapienza"</h3>
+###
 
-<div >
- 
- <h3>42 school student</h3>
+<p align="left">Computer engineering student at "La Sapienza"</p>
 
- <img src="https://badge.mediaplus.ma/binary/astarran" alt="42 score">
+###
+
+<p align="left">42 link</p>
+
+###
+
+<h2 align="left">Skillset</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<div>
+###
 
-<h2>Technologies</h2>
+<h3 align="left">Exams</h3>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,fastapi,postgresql">
+###
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<p align="left">- math<br>- algebra<br>- statistics<br>- algorithms and data structures<br>- computational systems<br>- control systems<br>- operating systems<br>- internet fundamentals and computer networks</p>
 
+###
+
+<h2 align="left">Github</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/Starry03/Starry03/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Starry03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Starry03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div >
-  <h2>My Contributions</h2>
+###
 
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starry03&theme=radical&hide_border=true)
+<h2 align="left">Social</h2>
 
-</div>
+###
 
-<h2>Contact me</h2>
-
-<div > 
-  <a href="mailto:andrea.starrantino@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="left">
+  <a href="https://www.instagram.com/andrea.starrantino/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="andrea.starrantino@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
