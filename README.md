@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">Computer engineering student at "La Sapienza"</p>
+<p align="left">Computer engineering student at "La Sapienza" and 42 school</p>
 
 ###
 
-<p align="left">42 link</p>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/astarran?1337Badge=off&UM6P=off" alt="astarran's 42 stats" /></a>
 
 ###
 
@@ -49,10 +49,6 @@
 ###
 
 <h2 align="left">Github</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Starry03/Starry03/output/snake.svg" alt="Snake animation" />
 
 ###
 
