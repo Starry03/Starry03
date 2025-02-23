@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- math<br>- algebra<br>- statistics<br>- algorithms and data structures<br>- computational systems<br>- control systems<br>- operating systems<br>- internet fundamentals and computer networks</p>
+<p align="left">- math<br>- algebra<br>- statistics<br>- algorithms and data structures<br>- computational systems<br>- control systems<br>- operating systems<br>- internet fundamentals and computer networks<br> -software design</p>
 
 ###
 
