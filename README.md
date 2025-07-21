@@ -64,6 +64,8 @@
   <li>Software Design</li>
   <li>Databases</li>
   <li>Economics</li>
+  <li>Web technologies</li>
+  <li>Ai</li>
 </ul>
 
 ---
