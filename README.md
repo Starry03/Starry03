@@ -67,6 +67,7 @@
   <li>Economics</li>
   <li>Web technologies</li>
   <li>Ai</li>
+  <li>Electronics</li>
 </ul>
 
 ---
