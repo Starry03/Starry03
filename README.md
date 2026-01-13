@@ -80,6 +80,5 @@
 <br />
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Starry03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages"/>
-<img src="https://streak-stats.demolab.com?user=Starry03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Starry03&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Starry03&theme=tokyonight&hide_border=true"/>
