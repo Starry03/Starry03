@@ -1,17 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Starry! 👋</h1>
+  <h1 align="center">Starry</h1>
   <p align="center">
     <b>Computer Engineering Student at La Sapienza</b> 🎓 <br />
-    <i>Currently working on my AI Thesis 🧠</i>
-  </p>
-
-  <p align="center">
-    <a href="https://www.instagram.com/andrea.starrantino/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:andrea.starrantino@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
   </p>
 </div>
 
@@ -19,29 +9,22 @@
 
 ## 🚀 Projects Overview
 
-<a href="https://github.com/Starry03/UniC">
-  <h3 align="left">UniC</h3>
-</a>
-<p>Collection of datastructures and algorithms from uni, implemented by me.</p>
-<a href="https://github.com/Starry03/list">
-  <h3 align="left">list</h3>
-</a>
-<p>An <code>ls</code> command implementation with a new, improved UI.</p>
+### C utilities/frameworks
 
-<a href="https://github.com/Starry03/Eye">
-  <h3 align="left">Eye</h3>
-</a>
-<p>A custom Java backend framework.</p>
+- Datastructures & algorithms
+- Low level linux communication & text rendering
 
-<h3 align="left">C Utility Frameworks</h3>
-<p>A suite of C libraries for terminal-based applications.</p>
-<p>
-  <a href="https://github.com/Starry03/keyboard"><b>keyboard</b></a>: C library for handling keyboard input and key listening.<br />
-  <a href="https://github.com/Starry03/TermVision"><b>TermVision</b></a>: A terminal graphics engine for rendering in the console.<br />
-  <a href="https://github.com/Starry03/linux_events"><b>linux_events</b></a>: Interface to periodically get input events.
-</p>
+### Mobile apps
 
-<br />
+This category of projects aims to provide tools for an home server/private ecosystem.
+
+### Knowledge & music production
+
+The goal is to provide not-tech people free programs to make digital music. I belive that AI can help us to "open-source" culture & education
+
+### AI Reasearch
+
+Some day
 
 ## 🛠️ Skills
 
@@ -77,8 +60,23 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 </p>
 
-<br />
 
-## 📊 GitHub Stats
+
+## Contacts
+Feel free to reach me for
+- open-source projects
+- ai things
+
+<div>
+  <p align="center">
+    <a href="https://www.instagram.com/andrea.starrantino/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:andrea.starrantino@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+</div>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Starry03&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Starry03&theme=tokyonight&hide_border=true"/>
