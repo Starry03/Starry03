@@ -14,9 +14,13 @@
 - Datastructures & algorithms
 - Low level linux communication & text rendering
 
+### CLI tools
+
+- simple programs i like to have, like a fancy version of ls
+
 ### Mobile apps
 
-This category of projects aims to provide tools for an home server/private ecosystem.
+This category of projects aims to provide tools for an home server/private ecosystem. In the near future, these projects will support services provided by a few nas os.
 
 ### Knowledge & music production
 
@@ -59,8 +63,6 @@ Some day
 <p>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 </p>
-
-
 
 ## Contacts
 Feel free to reach me for
