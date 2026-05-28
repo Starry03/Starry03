@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Starry</h1>
   <p align="center">
-    <b>Computer Engineering Student at La Sapienza</b> 🎓 <br />
+    <b>Bachelor degree in Computer Engineering at La Sapienza</b> 🎓 <br />
   </p>
 </div>
 
