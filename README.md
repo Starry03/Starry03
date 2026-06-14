@@ -17,7 +17,7 @@
 ### CLI tools
 
 - Edge-ai tools
-- simple programs i like to have, like a fancy version of ls
+- Simple programs i like to have, like a fancy version of ls
 
 ### Mobile apps
 
