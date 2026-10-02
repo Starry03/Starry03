@@ -2,6 +2,7 @@
   <h1 align="center">Starry</h1>
   <p align="center">
     <b>Bachelor degree in Computer Engineering at La Sapienza</b> 🎓 <br />
+    Currently pursuing an M.Sc. in Artificial Intelligence and Robotics
   </p>
 </div>
 
@@ -19,7 +20,7 @@
 - Edge-ai tools
 - Simple programs i like to have, like a fancy version of ls
 
-### Mobile apps
+### Services & mobile apps
 
 This category of projects aims to provide tools for an home server/private ecosystem. In the near future, these projects will support services provided by a few nas os.
 
@@ -63,7 +64,13 @@ Some day
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="Postgres" />
 </p>
+
+### Containerization and build systems
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/cmake-9996ED?style=for-the-badge&logo=cmake&logoColor=white" alt="Docker" />
+
 
 ## Contacts
 Feel free to reach me for
@@ -84,5 +91,5 @@ Feel free to reach me for
   </p>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Starry03&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Starry03&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Starry03&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt=""/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Starry03&theme=tokyonight&hide_border=true" alt=""/>
